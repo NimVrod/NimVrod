@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NimVrod
+- 🧾[My website](https://nimvrod.github.io/Page/)
 - 👀 I’m interested in Python, C++, JS, HTML, CSS
 - 🌱 I’m currently learning Web development (CSS, JS, Django), I am also learning C++ in highschool. 
 - 💞️ I’m looking to collaborate on my discord bots and other fun projects
